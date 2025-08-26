@@ -8,10 +8,10 @@ I'm a Computer Science major at the University of Maryland Baltimore County, pas
 - **Learning new foreign languages**, especially Korean!
 
 ## 🌱 Currently learning:
-- Design and Analysis of Algorithms
-- Principles of Computer Security
-- SQL and Database Management
-- Advanced Korean II
+- Software Engineering I
+- Malware Analysis
+- Introduction to Network Security
+- Seminar in Active Cyberdefense
 
 ## 🚀 Open to Opportunities in:
 - Software Engineering
