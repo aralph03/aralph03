@@ -29,7 +29,7 @@ I'm a Computer Science major at the University of Maryland Baltimore County, pas
 I love exploring new foreign languages—Korean, Japanese, and beyond!
 
 ## 📫 How to reach me:
-- **LinkedIn**: [Akeela Ralph](https://www.linkedin.com/in/akeela-ralph-a53542233)
+- **LinkedIn**: [Akeela Ralph](https://www.linkedin.com/in/akeela-ralph)
 - **Email**: akeelaralph15@gmail.com
 
 <!---
