@@ -1,17 +1,18 @@
 # 👋 Hi there, I'm @aralph03!
 
-I'm a Computer Science major at the University of Maryland Baltimore County, passionate about software engineering and cybersecurity.
+I'm a Computer Science graduate from the University of Maryland Baltimore County, passionate about software engineering and cybersecurity.
 
 ## 🔍 Interests:
 - **Software Engineering**
 - **Cybersecurity**
 - **Learning new foreign languages**, especially Korean!
 
-## 🌱 Currently learning:
-- Software Engineering I
-- Malware Analysis
-- Introduction to Network Security
-- Seminar in Active Cyberdefense
+## 🌱 Currently upskilling in:
+- Software Engineering
+- Network Security
+- Security Engineering
+- Programming Languages
+- Spoken Languages
 
 ## 🚀 Open to Opportunities in:
 - Software Engineering
